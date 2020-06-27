@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+body{
+font-family: 'Sriracha', cursive;
+font-size: 15px;
+color: #BC0C24;	
+}
+
+#acerca-de-mi{
+	background-image: url("../img/Banners_Portada_Phans2.jpg");
+	background-size: cover;
+	color: #fff;
+	marging-top: 35px;
+}
+
+#acerca-de-mi h1{
+	font-size: 50px;
+	margin-top: 100px;
+}
+
+#acerca-de-mi p{
+	font-size: 20px;
+	margin-bottom: 100px;
+	text-align: left;
+	width:auto;
+	margin-right: 40px;
+}
+
+#servicios{
+	background-image: url("../img/Banners_servicios_Phans1.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	text-align: center;
+	color: #212121;
+}
+
+
+.servicio h1{
+font-size: 50px;
+color: #BC0C24;
+padding-top: 30px;
+}
+
+.servicio p{
+	font-size: 20px;
+	width: 70%;
+	margin:auto;
+	padding-bottom: 50px;
+}
+
+
+.servicio i{
+	font-size: 40px;
+	margin-top: 35px;
+	margin-bottom: 35px;
+}
+
+.servicio img{
+	width: 100px;
+	height: 100px;
+	border-radius: 100%;
+}
+
+#servicios .carousel-item{
+	height: 400px;
+}
+
+#proyectos{
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	text-align: center;
+}
+
+#proyectos h1{
+	font-size: 50px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+#contactos{
+	background-color: #BC0C24;	
+	color: #fff;
+	padding-top: 10px;
+	margin-bottom: 7px;
+	padding-bottom: 10px
+}
+
+#contactos h1{
+	text-align: center;
+	font-size: 50px;
+	padding: 20px;
+}
+
+
+
+footer{
+	background-color: #BC0C24;
+	text-align: center;
+	color: #fff;
+	padding-top: 30px;
+	padding-bottom: 20px;
+	font-size: 25px;
+}
